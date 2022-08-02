@@ -30,6 +30,7 @@ namespace ChristmasWithTypes
             }
 
             Console.WriteLine($"\n We like to call Santa, {xmas.Santa}");
+            Console.WriteLine($"\n Press any key to continue...");
         }
     }
 }
